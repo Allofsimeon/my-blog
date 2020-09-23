@@ -1,1 +1,1 @@
-Site available at Allofsimeon.xyz/blog
+Site available at blog.Allofsimeon.xyz
