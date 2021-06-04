@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitleAlt: `AllofSimeon's Journal`,
   },
   plugins: [
     {
@@ -13,7 +13,7 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `About`,
+            title: `About Me`,
             slug: `/about`,
           },
         ],
